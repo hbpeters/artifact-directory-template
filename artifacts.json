@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/hbpeters/artifact-directory-template",
+    "project-repository": "https://github.com/hbpeters/2016-2020_elections_on_twitter",
+    "dockerhub-repository": "hbpeters/dsc180_pres_elections:latest",
+    "project-website-url": "https://hbpeters.github.io/2016-2020_pres_elections_twitter",
+    "project-website-code": "https://github.com/hbpeters/2016-2020_pres_elections_twitter"
 }

@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+The Sentiment of U.S. Presidential Elections on Twitter
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Political tensions in the United States came to a head in 2020 as the public responded to various major events such as the onset of the COVID-19 pandemic and the murder of George Floyd, as well as the 2020 presidential election. Here we investigate if there is evidence of increasing polarization and negativity in regards to politics among the American public on social media by analyzing Twitter data related to the 2016 and 2020 presidential elections. Using publicly available datasets of tweets for each election, we perform sentiment analysis on the text of tweets to quantify their degrees of negativity and subjectivity. We also identify political leanings of tweets by analyzing their hashtag usage and identify “dialogue” occurring between and amongst left- and right-leaning users by analyzing the tweets’ user mentions. We then conduct permutation testing on these various groupings of tweets between the two years to determine if there is statistical evidence of increased polarization and negativity on social media surrounding the U.S. presidential election from 2016 to 2020, both generally and between and within political parties. We find that election-related tweets in 2020 generally used less neutral language than in 2016 but were not conclusively more positive or negative in sentiment.
